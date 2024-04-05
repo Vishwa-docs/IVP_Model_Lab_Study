@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+tensorflow-macos
+# tensorflow
+# tensorflow-metal
+opencv-python
+opencv-contrib-python
+Jupyter
+setuptools
+seaborn
