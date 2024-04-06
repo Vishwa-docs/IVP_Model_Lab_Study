@@ -1,6 +1,7 @@
 numpy
 pandas
 scikit-learn
+scikit-image
 matplotlib
 tensorflow-macos
 # tensorflow
@@ -10,3 +11,11 @@ opencv-contrib-python
 Jupyter
 setuptools
 seaborn
+spacy
+Pillow
+# pytorch
+# torchvision
+nibabel
+tifffile
+split_folders
+segmentation_models_3D

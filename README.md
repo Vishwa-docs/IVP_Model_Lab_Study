@@ -1,6 +1,6 @@
 # To Do
-1. Go through Sampel Questions
-2. Go through LMS questions
+1. Go through Sample Questions
+2. Go through LMS Lab Assignments
 
 ## List of Topics
 1. Look at standard datasets and tasks and list (Like MNIST)
