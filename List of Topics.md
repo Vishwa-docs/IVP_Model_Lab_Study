@@ -1,3 +1,8 @@
+PCA, SVD, Anisotrphic
+One from theory and one ML model will be asked
+PSNR, SSIM etc how to calculate them
+Eg : You need to do preprocessing and segmentation, just know what to do
+
 # To Do
 1. Go through LMS Lab Assignments
     - Filters and Colour Correction : https://scikit-image.org/docs/stable/api/skimage.filters.html
@@ -31,10 +36,6 @@
         - Fourier
         - Log
         - Wavelet
-    - Extra
-        - Contrast Stretching
-        - Thresholding
-        - Spatial Enhancement
     - Metrics
         - Noise : PSNR (Peak Signal to Noise Ratio), SSIM( Structural Similarity Index Measure), LPIPS( Learned Perceptual Image Patch Similarity).
 1. Look at standard datasets and tasks and list (Like MNIST)
@@ -43,18 +44,7 @@
     - Image Enhancement (Intensity Transformations, Contract enhancement, histogram processing, spatial filtering)
     - Image Restoration (Inverse Fileter, Wiener Filter, MAP Formulation, Wavelets)
     - Face Detection (Eigen Faces, Viola Jones, CNN)
-    - Object Recognition (Detection, Semantic Segmentation, Instance Segmentation)
-    - Video Understanding (Abnormal Event Detection, Motion Modelling)
-    - GANs, DC GAN, Style GAN
-    - Others
-        - Super Resolution
-        - Haze Removal
-1. Datasets
-    - CIFAR10
-    - IMAGENET
-1. List topics (Thaught in class)
-    - Histogram Equalization
-    - Wavelet Transforms
+    - Image Dehazing
 1. Preprocessing techniques
 1. Models
     - Model Architectures (DenseNet, ResNet etc)
