@@ -1,3 +1,10 @@
+# More Links (Go through this and the remaining topics from this file)
+- https://www.youtube.com/playlist?list=PLZsOBAyNTZwYx-7GylDo3LSYpSompzsqW
+- https://www.youtube.com/playlist?list=PL8KfC62j2R-JC23eK7srdA13kcjFfulW5
+- https://scikit-image.org/docs/stable/api/skimage.filters.html
+- https://docs.opencv.org/4.x/d4/d86/group__imgproc__filter.html
+- Spatial Enhancement
+
 # Sign in to google and use these - Links in different files
 - Pipeline (Ask gpt)
 - Preprocessing
@@ -16,7 +23,6 @@ Eg : You need to do preprocessing and segmentation, just know what to do
         - Removing noise (Blind and kernel known)
     - Metrics
         - Noise : PSNR (Peak Signal to Noise Ratio), SSIM( Structural Similarity Index Measure), LPIPS( Learned Perceptual Image Patch Similarity).
-        - Task Dependent
     - Basics
         - PCA, SVD etc.
     - Morphological Transform
