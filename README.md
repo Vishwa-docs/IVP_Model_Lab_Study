@@ -1,3 +1,9 @@
+# Sign in to google and use these - Links in different files
+- Pipeline (Ask gpt)
+- Preprocessing
+- Modelling
+- Evaluation
+
 # Questions
 One from theory and one ML model will be asked
 Eg : You need to do preprocessing and segmentation, just know what to do
@@ -5,38 +11,9 @@ Eg : You need to do preprocessing and segmentation, just know what to do
 
 # To Do
 1. Go through LMS Lab Assignments
-    - Colour and Contrast Correction (Filtering Techniques can be used here as well)
-        - https://www.analyticsvidhya.com/blog/2021/09/advanced-image-contrast-the-pixel-intensity-histogram/
-        - https://www.analyticsvidhya.com/blog/2021/09/understanding-image-contrast-with-opencv-in-python/
-    - Image Enhancement
-        - https://www.geeksforgeeks.org/image-enhancement-techniques-using-opencv-python/
-        - Systolic Tonemapping
-    - Transforms
-        - Fourier
-        - Log
-        - Wavelet
-        - DFT and CFT
-
-    - Edge Algorithms
-        - DoG
-        - Laplacian
-        - LoG
-    - Filters
-        - Frequency Domain filtering
-    - Image Resizing (And interpolation)
-    - Image format conversion
     - Extraction of Colour bands from an image
     - Adding Noise to an image - Uniform, Gaussian, Salt and Pepper
         - Removing noise (Blind and kernel known)
-    - Histograms
-        - Modification (Adaptive vs Non-Adaptive on Global and Local)
-        - Intensity Distribution
-        - Equalization and Matching
-        - Specification
-    - Extra
-        - Contrast Stretching
-        - [Thresholding (cv2.THRESH_BINARY)](https://pyimagesearch.com/2021/04/28/opencv-thresholding-cv2-threshold/)
-        - Spatial Enhancement
     - Metrics
         - Noise : PSNR (Peak Signal to Noise Ratio), SSIM( Structural Similarity Index Measure), LPIPS( Learned Perceptual Image Patch Similarity).
         - Task Dependent

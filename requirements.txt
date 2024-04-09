@@ -18,4 +18,5 @@ Pillow
 nibabel
 tifffile
 split_folders
-segmentation_models_3D
+# segmentation_models_3D
+PyWavelets
