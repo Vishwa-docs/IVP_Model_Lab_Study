@@ -1,0 +1,15 @@
+1. Given a Hematoxylin and Eosin stained image as Original.tif and the corresponding output expected is given as Nuclei.png. Your task is to highlight and mask the nuclei. Further, overlay the masked image on the original to obtain the output as given in the Nuclei.png.
+Apply necessary image preprocessing techniques to obtain the expected output.
+
+2. Given a stained nucleus cell in image.tif and expected output image Image_gt.png, apply image processing techniques on the input image to get the expected output image
+
+3. Erosion and dilation
+
+4. Nucleus segmentation
+
+5. Road segmentation
+
+
+
+# Viva
+- Viva was GAN related questions
