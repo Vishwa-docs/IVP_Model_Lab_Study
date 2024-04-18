@@ -1,20 +1,18 @@
-# More Links (Go through this and the remaining topics from this file)
-- https://www.youtube.com/playlist?list=PLZsOBAyNTZwYx-7GylDo3LSYpSompzsqW
-- https://www.youtube.com/playlist?list=PL8KfC62j2R-JC23eK7srdA13kcjFfulW5
-- https://scikit-image.org/docs/stable/api/skimage.filters.html
-- https://docs.opencv.org/4.x/d4/d86/group__imgproc__filter.html
-- Spatial Enhancement
-
-# Sign in to google and use these - Links in different files
-- Pipeline (Ask gpt)
-- Preprocessing
-- Modelling
-- Evaluation
-
 # Questions
 One from theory and one ML model will be asked
 Eg : You need to do preprocessing and segmentation, just know what to do
 
+# Rhea Git Repo (For Viva Theory + Model Codes)
+[Link](https://github.com/RP-1106/IVP-ImageProcessing/blob/main/SET-2/Question.txt)
++ When finished, do the project
+
+## Viva
++ **Read about Transformers, GANs etc**
++ Cnn vs unet
++ Relu vs leaky relu
++ Image restoration vs Degradation
++ Masking and Erosion
++ How Performacne Metrics work (PSNR, SSIM etc)
 
 # To Do
 1. Go through LMS Lab Assignments
@@ -83,3 +81,19 @@ Eg : You need to do preprocessing and segmentation, just know what to do
     - Histogram Equalization
     - Wavelet Transforms
 1. Try the Sample Questions
+
+---
+---
+---
+# More Links (Go through this and the remaining topics from this file)
+- https://www.youtube.com/playlist?list=PLZsOBAyNTZwYx-7GylDo3LSYpSompzsqW
+- https://www.youtube.com/playlist?list=PL8KfC62j2R-JC23eK7srdA13kcjFfulW5
+- https://scikit-image.org/docs/stable/api/skimage.filters.html
+- https://docs.opencv.org/4.x/d4/d86/group__imgproc__filter.html
+- Spatial Enhancement
+
+# Sign in to google and use these - Links in different files
+- Pipeline (Ask gpt)
+- Preprocessing
+- Modelling
+- Evaluation
